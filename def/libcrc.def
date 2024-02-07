@@ -1,0 +1,26 @@
+EXPORTS
+    _Z10crc_16_dnpPKhj @1
+    _Z11crc_16_sickPKhj @2
+    _Z11crc_64_ecmaPKhj @3
+    _Z12crc_16_ccittPKhjt @4
+    _Z12update_crc_8hh @5
+    _Z13checksum_NMEAPKhPh @6
+    _Z13crc_16_kermitPKhj @7
+    _Z13crc_16_modbusPKhj @8
+    _Z13crc_16_xmodemPKhj @9
+    _Z13update_crc_16th @10
+    _Z13update_crc_32jh @11
+    _Z13update_crc_64yh @12
+    _Z17crc_16_ccitt_1d0fPKhj @13
+    _Z17crc_16_ccitt_ffffPKhj @14
+    _Z17update_crc_16_dnpth @15
+    _Z18crc_16_dnp_reverset @16
+    _Z18update_crc_16_sickthh @17
+    _Z19crc_16_sick_reverset @18
+    _Z19update_crc_16_ccittth @19
+    _Z20update_crc_16_kermitth @20
+    _Z21crc_16_kermit_reverset @21
+    _Z5crc_8PKhj @22
+    _Z6crc_16PKhj @23
+    _Z6crc_32PKhj @24
+    _Z9crc_64_wePKhj @25
